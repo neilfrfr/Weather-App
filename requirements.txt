@@ -1,5 +1,3 @@
-STREAMING_CHUNK:Defining project dependencies...
-
 streamlit>=1.30.0
 requests>=2.31.0
 pandas>=2.0.0
